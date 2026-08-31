@@ -14,12 +14,12 @@ timezone: Europe/Berlin # ← change if you're not on Central European time; onl
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Daniel Gráf # the main title
+title: Daniel Graf # the main title
 
 tagline: Offensive Security, Law & Technical Writing # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  Technical writing on offensive security — and where it meets the law — by Daniel Gráf.
+  Technical writing on offensive security — and where it meets the law — by Daniel Graf.
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -34,12 +34,12 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: Daniel Gráf
+  name: Daniel Graf
   email: # leave empty to hide the mail icon, or add an address to show one
   fediverse_handle: # fill in your fediverse handle. E.g. "@username@domain.com"
   links:
     # The first element serves as the copyright owner's link
-    - https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE # ← paste your LinkedIn URL; the first link is where your name in the footer points
+    - https://www.linkedin.com/in/danielgr%C3%A1f/ # ← paste your LinkedIn URL; the first link is where your name in the footer points
     - https://github.com/law-red
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
