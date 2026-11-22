@@ -6,7 +6,7 @@ categories: [Security, Penetration Testing]
 tags: [pentesting, authorization, scope, cloud, legal, gdpr]
 image:
   path: /assets/img/posts/in-scope-but-also-authorized/cover.webp
-  alt: "Dallas County Courthouse in Adel, Iowa"
+  alt: "Dallas County Courthouse, Adel, Iowa. Photo: Wikimedia Commons (CC0)"
 ---
 
 ## §1 When the Target Isn’t Yours
